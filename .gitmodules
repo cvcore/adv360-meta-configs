@@ -1,0 +1,8 @@
+[submodule "adv360-pro-zmk"]
+	path = adv360-pro-zmk
+	url = git@github.com:cvcore/Adv360-Pro-ZMK.git
+	branch = test/V3.0
+[submodule "zmk"]
+	path = zmk
+	url = https://github.com/cvcore/zmk.git
+	branch = cvcore/adv360-z3.2-beta-indicator-auto-off
